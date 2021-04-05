@@ -18,9 +18,9 @@ body {
 }
 
 .card {
-    border          : solid 1px #dcfeff8e;
+    border          : solid 1px #c8e1e28a;
     background-color: #dcfeff8e;
-    backdrop-filter : blur(10px);
+    backdrop-filter : blur(50px);
     border-radius   : 4em 4em 0 0;
     height          : 45%;
     margin-top      : auto;
